@@ -19,3 +19,4 @@ def get_sorted_char_counts(char_counts):
 
     sorted_chars.sort(key=sort_on_count, reverse=True)
     return sorted_chars
+
